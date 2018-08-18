@@ -18,12 +18,12 @@ jQuery
 Vue.js  
 Vuex  
 React  
-Redux 
+Redux  
 SEO  
 Loadtime Optimization  
   
 PHP  
-Composer
+Composer  
 Laravel  
 SQL  
 MySQL  
