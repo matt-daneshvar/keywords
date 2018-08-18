@@ -69,7 +69,6 @@ Monitoring
   
 OOP  
 SOLID  
-SRP  
 TDD  
 DDD  
 BDD  
